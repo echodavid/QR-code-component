@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-![result](images/qr-code-component-mobile.png)
+![result](images/result.png)
 
 ### Links
 
