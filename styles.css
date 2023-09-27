@@ -38,6 +38,7 @@ main{
   width: 20%;
   padding: 1rem;
   border-radius: 1.3rem;
+  box-shadow: 0px 22px 40px #c4cefa;
 }
 .image-container{
   width: auto;
